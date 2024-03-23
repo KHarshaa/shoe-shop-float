@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.product {
+color: rgb(12, 17, 17);
+
+}
+body{
+    background-color: rgb(157, 149, 160);
+}
+
+#de {
+    color: rgb(79, 8, 82); 
+    font-size: 50px;
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(179, 151, 179);
+}
+.pic{
+    margin: 4px;
+    float: left;
+}
+.color{background-color: rgb(7, 6, 5);
+       height: 20px;
+       width: 20px;
+       display:inline-block;
+       margin: 4px 0px 5px 4px;
+       border: 2px solid black;
+}
+.color-red{
+    background-color: rgb(221, 47, 47);
+}
+.color-blue{
+    background-color: blue;
+
+}
+.color-green{
+    background-color: green;
+}
+.color-pink{
+    background-color: rgb(187, 146, 172);
+}
+.product{
+    color: rgb(68, 3, 57);
+    font-size:40px;
+    float: left;
+    margin-left: 0;
+}
+.money{
+    color: rgb(34, 4, 51);
+    font-size:30px;
+    margin-left: 4px;
+    
+    
+}
+.tough{
+    color:rgb(4, 22, 31);
+    background-color: rgb(73, 138, 158);
+    font-size:30px;
+    font-weight: bold;
+    width: 100%;
+    cursor: pointer;
+    margin-top: 5px;
+
+
+}
+.tough:hover{
+    color: rgb(221, 237, 243);
+    background-color: black;
+}
+
+.harsha{
+    border: 10px solid black;
+    width: 800px;
+}
+
+p{
+    font-size:larger;
+}
+
+.payra{
+    font-size: larger;
+}
+
+
+ 
+.dp{
+    width: 250px;
+    margin-top: 30px;
+    float: left;
+}
+
+.fre{
+    float: right;
+    font-weight: bold;
+    color: red;
+    font-size: 25px;
+    
+}
+.color{
+    float: left;
+
+}
+.cl{
+    margin-top: 10px;
+    clear: both;
+
+}
+.money{
+    float: left;
+    font-size: 25px;
+}
+.SH div{
+       height: 20px;
+       width: 20px;
+       display: inline-block;
+       margin: 15px 0 0 10px;
+       border: 1px solid black;
+}
+.dps{
+    float: right;
+    width: 210px;
+    margin-top: 30px;
+}
